@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.chenchenzinie.ebrcampaign",
+    "sha256_cert_fingerprints": ["B2:15:C0:73:FC:58:3F:25:8A:5C:B7:88:40:B8:8D:84:C5:9D:CE:38:AE:77:65:2B:32:D0:1C:07:A9:9D:B0:E8"]
+  }
+}]
